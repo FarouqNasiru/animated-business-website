@@ -35,7 +35,7 @@ export default function AnimatedHero() {
           <div className="hero-text">
             <h1 className="hero-title">
               <span className="title-line">Transform Your</span>
-              <span className="title-line gradient-text">Digital Future</span>
+              <span className="title-line">Digital Future</span>
               <span className="title-line">With Innovation</span>
             </h1>
 
@@ -456,7 +456,7 @@ export default function AnimatedHero() {
 
           .hero-title {
             font-size: 2.5rem;
-            padding-top: 5rem; // Added extra padding for mobile view
+            padding-top: 7rem; // Added extra padding for mobile view
           }
 
           .hero-buttons {
