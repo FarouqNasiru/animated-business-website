@@ -456,6 +456,7 @@ export default function AnimatedHero() {
 
           .hero-title {
             font-size: 2.5rem;
+            padding-top: 2rem; // Added extra padding for mobile view
           }
 
           .hero-buttons {
